@@ -1,0 +1,347 @@
+{
+  "komeks": [
+    {
+      "name": "AHIRLI AİLE SANAT ve EĞİTİM MERKEZİ",
+      "loc": "AHIRLI",
+      "lat": 37.2391682151468,
+      "lang": 37.2391682151468
+    },
+    {
+      "name": "AHŞAP OYUNCAK ATÖLYESİ",
+      "loc": "MERAM",
+      "lat": 37.8562763087646,
+      "lang": 32.4586594553694
+    },
+    {
+      "name": "AKKİSE KOMEK KURS MERKEZİ",
+      "loc": "AHIRLI",
+      "lat": 37.239119686912,
+      "lang": 32.120878997401
+    },
+    {
+      "name": "AKÖREN KOMEK KURS MERKEZİ",
+      "loc": "AKÖREN",
+      "lat": 37.4503734275892,
+      "lang": 32.3678619974079
+    },
+    {
+      "name": "AKŞEHİR AİLE SANAT VE EĞİTİM MERKEZİ",
+      "loc": "AKŞEHİR",
+      "lat": 38.3544384394169,
+      "lang": 31.4296162262738
+    },
+    {
+      "name": "AKŞEHİR KOMEK KURS MERKEZİ",
+      "loc": "AKŞEHİR",
+      "lat": 38.3491168954757,
+      "lang": 31.4180592992868
+    },
+    {
+      "name": "AKŞEMSETTİN KOMEK KURS MERKEZİ",
+      "loc": "SELÇUKLU",
+      "lat": 37.8888735452741,
+      "lang": 32.4548901704357
+    },
+    {
+      "name": "ALAADDİN KOMEK KURS MERKEZİ",
+      "loc": "MERAM",
+      "lat": 37.872072272251,
+      "lang": 32.4945611839287
+    },
+    {
+      "name": "ALAKOVA KOMEK KURS MERKEZİ",
+      "loc": "MERAM",
+      "lat": 37.7731208824087,
+      "lang": 32.5008074820766
+    },
+    {
+      "name": "ARAPLAR KOMEK KURS MERKEZİ",
+      "loc": "KARATAY",
+      "lat": 37.8894438484173,
+      "lang": 32.5080796685871
+    },
+    {
+      "name": "BEYHEKİM KAZERUNİ TEKKESİ KOMEK KURS MERKEZİ",
+      "loc": "SELÇUKLU",
+      "lat": 37.8713756642886,
+      "lang": 32.4881601704352
+    },
+    {
+      "name": "BEYŞEHİR AİLE SANAT ve EĞİTİM MERKEZİ",
+      "loc": "BEYŞEHİR",
+      "lat": 37.6816428067537,
+      "lang": 31.7232735839223
+    },
+    {
+      "name": "BOSNA HERSEK SADRETTİN KİTİKÇİ KURS MERKEZİ",
+      "loc": "SELÇUKLU",
+      "lat": 38.0107783733285,
+      "lang": 32.5308068974267
+    },
+    {
+      "name": "BOZKİR AİLE SANAT ve EĞİTİM MERKEZİ",
+      "loc": "BOZKIR",
+      "lat": 37.1878239437974,
+      "lang":32.2421085820571
+    },
+    {
+      "name": "BOZKİR KOMEK KURS MERKEZİ",
+      "loc": "BOZKIR",
+      "lat": 37.1895916977858,
+      "lang":32.2448460992479
+    },
+    {
+      "name": "BİYİK AYMANAS KOMEK KURS MERKEZİ",
+      "loc": "MERAM",
+      "lat": 37.8486637516018,
+      "lang":32.4984712397502
+    },
+    {
+      "name": "BİYİK SİNAN SANAT VE TASARİM MERKEZİ",
+      "loc": "MERKEZİ",
+      "lat": 37.8899390468499,
+      "lang":32.512135568587
+    },
+    {
+      "name": "ÇATALHÖYİK KOMEK KURS MERKEZİ",
+      "loc": "MERKEZİ",
+      "lat": 37.7955694005665,
+      "lang":32.5309458109129
+    },
+    {
+      "name": "ÇUMRA AİLE SANAT ve EĞİTİM MERKEZİ",
+      "loc": "ÇUMRA",
+      "lat": 37.5741105073869,
+      "lang":32.7824503486547
+    },
+    {
+      "name": "CİHANBEYLİ AİLE SANAT ve EĞİTİM MERKEZİ",
+      "loc": "CİHANBEYLİ",
+      "lat": 38.6570897577402,
+      "lang":32.9223117976846
+    },
+    {
+      "name": "DOĞANHİSAR KOMEK-ASEM KURS MERKEZİ",
+      "loc": "DOĞANHİSAR",
+      "lat": 38.148866,
+      "lang":31.6798433
+    },
+    {
+      "name": "ECDAT BAHÇESİ SERGİ ve SATİŞ YERİ",
+      "loc": "SELÇUKLU",
+      "lat": 37.9487961004054,
+      "lang":32.5013287995152
+    },
+    {
+      "name": "EMİRGAZİ KOMEK KURS MERKEZİ",
+      "loc": "EMİRGAZİ",
+      "lat": 37.9034456519621,
+      "lang":33.8359665399877
+    },
+    {
+      "name": "EREĞLİ AİLE SANAT VE EĞİTİM MERKEZİ",
+      "loc": "EREĞLİ",
+      "lat": 37.5054166298162,
+      "lang":34.0537119211325
+    },
+    {
+      "name": "EREĞLİ KOMEK KURS MERKEZİ",
+      "loc": "EREĞLİ",
+      "lat": 37.5124207048403,
+      "lang":34.0555352655747
+    },
+    {
+      "name": "ERTUĞRUL GAZİ KOMEK KURS MERKEZİ",
+      "loc": "MERAM",
+      "lat": 37.8404787932702,
+      "lang":32.4870916781283
+    },
+    {
+      "name": "GÖDENE KOMEK KURS MERKEZİ",
+      "loc": "MERAM",
+      "lat": 37.7403140429841,
+      "lang":32.4027522860018
+    },
+    {
+      "name": "GİNEYSİNİR AİLE SANAT VE EĞİTİM MERKEZİ",
+      "loc": "GÜNEYSINIR",
+      "lat": 37.2679284999931,
+      "lang":32.7274214250856
+    },
+    {
+      "name": "HARMANCİK KOMEK KURS MERKEZİ",
+      "loc": "MERAM",
+      "lat": 37.8368162724869,
+      "lang":32.4548223714986
+    },
+    {
+      "name": "HOCACİHAN KOMEK KURS MERKEZİ",
+      "loc": "SELÇUKLU",
+      "lat": 37.8864397103922,
+      "lang":32.4456564912167
+    },
+    {
+      "name": "HİYİK AİLE SANAT ve EĞİTİM MERKEZİ",
+      "loc": "HÜYÜK",
+      "lat": 37.9498002714938,
+      "lang":31.5964667744922
+    },
+    {
+      "name": "İLGİN AİLE SANAT VE EĞİTİM MERKEZİ",
+      "loc": "ILGIN",
+      "lat": 38.2794741706789,
+      "lang":31.912489888082
+    },
+    {
+      "name": "KADİNHANİ AİLE SANAT VE EĞİTİM MERKEZİ",
+      "loc": "KADINHANI",
+      "lat": 38.2380550389135,
+      "lang":32.2240344777576
+    },
+    {
+      "name": "KARAKULAK OYUNCAK ATÖLYESİ",
+      "loc": "KARATAY",
+      "lat": 37.8432206007393,
+      "lang":32.5364008991383
+    },
+    {
+      "name": "KARAPİNAR AİLE SANAT ve EĞİTİM MERKEZİ",
+      "loc": "KARAPINAR",
+      "lat": 37.7161551717775,
+      "lang":33.5533139439311
+    },
+    {
+      "name": "KARATAY AİLE SANAT VE EĞİTİM MERKEZİ",
+      "loc": "KARATAY",
+      "lat": 37.8984025911179,
+      "lang":32.5207087481461
+    },
+    {
+      "name": "KARKENT KOMEK KURS MERKEZİ",
+      "loc": "KARATAY",
+      "lat": 37.897640085979,
+      "lang":32.5256646258564
+    },
+    {
+      "name": "KARŞEHİR KOMEK KURS MERKEZİ",
+      "loc": "KARATAY",
+      "lat": 37.8710293589012,
+      "lang":32.5441232185315
+    },
+    {
+      "name": "KÜLTÜR PARK SATİŞ ve SERGİ MERKEZİ",
+      "loc": "SELÇUKLU",
+      "lat": 37.8748879169592,
+      "lang":32.4904802508565
+    },
+    {
+      "name": "KULU AİLE SANAT ve EĞİTİM MERKEZİ",
+      "loc": "KULU",
+      "lat": 39.0929594026322,
+      "lang":33.0774767476279
+    },
+    {
+      "name": "LADİK KOMEK KURS MERKEZİ",
+      "loc": "LADİK",
+      "lat": 38.1998430092753,
+      "lang":32.3807725705509
+    },
+    {
+      "name": "MAHMUDİYE ALİ GAV GELENEKLİ SANATLAR MERKEZİ",
+      "loc": "SELÇUKLU",
+      "lat": 37.8764323015473,
+      "lang":32.4925759107675
+    },
+    {
+      "name": "MAHMUDİYE ALİ GAV GELENEKLİ SANATLAR MERKEZİ",
+      "loc": "SELÇUKLU",
+      "lat": 37.8764323015473,
+      "lang":32.4925759107675
+    },
+    {
+      "name": "MENGENE AİLE SANAT VE EĞİTİM MERKEZİ",
+      "loc": "KARATAY",
+      "lat": 37.8599921738417,
+      "lang":32.5083982976604
+    },
+    {
+      "name": "MERAM AİLE SANAT VE EĞİTİM MERKEZİ",
+      "loc": "MERAM",
+      "lat": 37.8565867229306,
+      "lang":32.4311985057179
+    },
+    {
+      "name": "MİMİNE HATUN AİLE SANAT VE EĞİTİM MERKEZİ",
+      "loc": "MERAM",
+      "lat": 37.9319441842303,
+      "lang":32.5003760271072
+    },
+    {
+      "name": "OSMANCİK KOMEK KURS MERKEZİ",
+      "loc": "KADINHANI",
+      "lat": 38.1807289445416,
+      "lang":32.1490576255714
+    },
+    {
+      "name": "SAMANPAZARİ MEFRUŞAT ATÖLYESİ",
+      "loc": "KARATAY",
+      "lat": 37.8678519564165,
+      "lang":32.5135553445391
+    },
+    {
+      "name": "SANCAK KOMEK KURS MERKEZİ",
+      "loc": "SELÇUKLU",
+      "lat": 37.9588719021072,
+      "lang":32.5244445190245
+    },
+    {
+      "name": "SARAYÖNİ AİLE SANAT ve EĞİTİM MERKEZİ",
+      "loc": "SARAYÖNÜ",
+      "lat": 38.2628444898866,
+      "lang":32.3951132513095
+    },
+    {
+      "name": "SELÇUKLU AİLE SANAT VE EĞİTİM MERKEZ",
+      "loc": "SELÇUKLU",
+      "lat": 37.8956120584571,
+      "lang":32.4772540225733
+    },{
+      "name": "SEYDİŞEHİR AİLE SANAT ve EĞİTİM MERKEZİ",
+      "loc": "SEYDİŞEHİR",
+      "lat": 37.4272488,
+      "lang":31.8515085
+    },{
+      "name": "SİZMA KOMEK HALİ VE KİLİM ATÖLYESİ",
+      "loc": "SELÇUKLU",
+      "lat": 38.0919607817203,
+      "lang":32.4069772631386
+    },{
+      "name": "TUZLUKÇU AİLE SANAT ve EĞİTİM MERKEZİ",
+      "loc": "TUZLUKÇU",
+      "lat": 38.4757560562899,
+      "lang":31.6274818712977
+    },{
+      "name": "YALİHİYİK KOMEK KURS MERKEZİ",
+      "loc": "YALIHÜYÜK",
+      "lat": 37.2975911492655,
+      "lang":32.0860233797939
+    },{
+      "name": "İÇERİ ÇUMRA KOMEK KURS MERKEZİ",
+      "loc": "ÇUMRA",
+      "lat": 37.5799921721478,
+      "lang":32.6599243232075
+    },{
+      "name": "YENİCEOBA KOMEK KURS MERKEZİ",
+      "loc": "CİHANBEYLİ",
+      "lat": 38.8722263120098,
+      "lang":32.8320713452397
+    },{
+      "name": "YUNAK KOMEK KURS MERKEZİ",
+      "loc": "YUNAK",
+      "lat": 38.8112930507107,
+      "lang":31.7370713638789
+    }
+  ]
+}
+
+
